@@ -6,7 +6,7 @@
 
 Simple WhatsApp Bot
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ariffb25/stikerinbot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HideyoshiHitoro/kurumibot)
 
 ## UNTUK PENGGUNA WINDOWS/VPS/RDP
 
